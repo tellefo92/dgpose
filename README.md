@@ -10,12 +10,3 @@ uv run main <path_to_input_file> <path_to_output_file> [--points rw,re,lw,le] [-
 
 ## Requirements
 Requires a brain and uv
-
-## Example
-### Input
-
-https://github.com/user-attachments/assets/b37541ac-031e-4b10-9b5f-acefeccf1da0
-
-### Output
-
-https://github.com/user-attachments/assets/4820a1b3-ec13-4f7c-9ef0-71f19e4baba9
