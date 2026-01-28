@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: dgpose
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: argparse>=1.4.0
+Requires-Dist: black>=26.1.0
+Requires-Dist: isort>=7.0.0
+Requires-Dist: mediapipe<0.10.30
+Requires-Dist: opencv-python>=4.13.0.90
+
+# Test

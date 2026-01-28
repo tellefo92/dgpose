@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+uv run black src
+uv run isort --profile=black src
